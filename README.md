@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Jithin, I am a Physics doctorate and Technical analyst interested in all things data science.
+
+LinkedIn[https://www.linkedin.com/in/jithinms/]
+
 - 🔭 I’m currently working as a Technical analyst at Applied Underwriters.
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ML, data and anything python related.
