@@ -5,7 +5,7 @@ My name is Jithin, I am a Physics doctorate and Technical analyst interested in 
 [LinkedIn](https://www.linkedin.com/in/jithinms/)
 
 - 🔭 I’m currently working as a Technical analyst.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently exploring modern C++.
 - 💬 Ask me about ML, data and anything python related.
 
 
