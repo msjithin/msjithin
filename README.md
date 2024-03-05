@@ -7,9 +7,8 @@ My name is Jithin, I am a Physics doctorate and Technical analyst interested in 
 - 🔭 I’m currently working as a Technical analyst at Applied Underwriters.
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ML, data and anything python related.
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-- 
+
+
 <!--
 **msjithin/msjithin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
