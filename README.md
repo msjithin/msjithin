@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jithin, I am a Physics doctorate and Technical analyst interested in all things data science.
+My name is Jithin, I am a Physics doctorate and developer interested in all things data science.
 
 [LinkedIn](https://www.linkedin.com/in/jithinms/)
 
