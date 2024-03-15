@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-My name is Jithin, I am a Physics doctorate and developer interested in all things data science.
+My name is Jithin, I am a developer and researcher interested in all things data science.
 
 [LinkedIn](https://www.linkedin.com/in/jithinms/)
+[Portfolio](https://msjithin.github.io/)
 
-- 🔭 I’m currently working as a Technical analyst.
-- 🌱 I’m currently exploring modern C++.
+- 🔭 I’m currently working as a Technical analyst/developer.
+- 🌱 I’m currently exploring modern C++ and C#.
 - 💬 Ask me about ML, data and anything python related.
 
 
