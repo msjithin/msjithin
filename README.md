@@ -6,7 +6,7 @@ My name is Jithin, I am a developer and researcher interested in all things data
 [Portfolio](https://msjithin.github.io/)
 
 - 🔭 I’m currently working as a Technical analyst/developer.
-- 🌱 I’m currently exploring modern C++ and C#.
+- 🌱 I’m currently learning Devops and system design and exploring C#.
 - 💬 Ask me about ML, data and anything python related.
 
 
